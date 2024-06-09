@@ -1,0 +1,7 @@
+priority queue
+generator functions  --- ! done
+heapq on dictionaries
+.groupby pandas  -- - from intertools import groupby
+mapping names to sequence elements
+chainmap from collections
+
